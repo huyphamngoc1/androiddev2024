@@ -10,7 +10,12 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Pham Ngoc Huy
+* ID: BI12-197
+* Group ID: 16
+* Project Name: Recipe Nutrition app
+
+
+
+
+
